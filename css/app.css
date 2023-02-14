@@ -149,7 +149,7 @@ footer a:hover{
     flex-wrap: wrap;
 }
 
-.footerRight{
+.footer_right{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
