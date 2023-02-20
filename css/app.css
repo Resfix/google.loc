@@ -143,7 +143,7 @@ footer a:hover{
     text-decoration: underline;
 }
 
-.footerLeft{
+.footer_left{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -228,5 +228,10 @@ footer a:hover{
 
     footer{
         justify-content: center;
+    }
+}
+@media (orientation: landscape){
+    .container{
+        margin-top: 0px;
     }
 }

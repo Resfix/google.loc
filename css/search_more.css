@@ -198,7 +198,7 @@ footer a:hover{
     text-decoration: underline;
 }
 
-.footerLeft{
+.footer_left{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
